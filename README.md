@@ -6,7 +6,7 @@
 
 :earth_americas: Brazil
 
-:beetle: Quality Assurance Engineer at [B3 | GFT Technologies]
+:beetle: Quality Assurance Engineer Consulting at [B3](http://www.b3.com.br/pt_br/) | [GFT Technologies](https://www.gft.com/br/pt/index/) 
 
 :man_technologist: +3 years of experience working with mobile software and performance testing 
 
