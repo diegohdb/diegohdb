@@ -6,11 +6,11 @@
 
 :earth_americas: Brazil
 
-:beetle: Quality Assurance Engineer at [INDT](https://www.indt.org.br/) (Manaus)
+:beetle: Quality Assurance Engineer at [B3 | GFT Technologies]
 
-:man_technologist: +3 years of experience working with mobile software testing
+:man_technologist: +3 years of experience working with mobile software and performance testing 
 
-:computer: Working with testing of AI solutions
+:computer: Working with testing of finance solutions
 
 :books: Self-learner and thirsty of knowledge. Learning about Deep Learning/Machine Learning and Software Testing
 
