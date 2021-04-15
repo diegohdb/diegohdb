@@ -6,13 +6,13 @@
 
 :earth_americas: Brazil
 
-:beetle: Quality Assurance Engineer Consulting at [B3](http://www.b3.com.br/pt_br/) | [GFT Technologies](https://www.gft.com/br/pt/index/) 
+:beetle: Senior Quality Assurance Engineer Consulting at [Avenue8](https://www.avenue8.com/) | [Jobsity](https://www.jobsity.com/) 
 
-:man_technologist: +3 years of experience working with mobile software and performance testing 
+:man_technologist: +4 years of experience working with mobile software, web, API and performance testing 
 
-:computer: Working with testing of finance solutions
+:computer: Working with testing of real state modernization
 
-:books: Self-learner and thirsty of knowledge. Learning about Deep Learning/Machine Learning and Software Testing
+:books: Self-learner and thirsty of knowledge. Learning about Finance and Software Testing
 
 :seedling: Trying to create something meaningful as a person and professional 
 
